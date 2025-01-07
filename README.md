@@ -7,5 +7,5 @@ $ sbt g8Test
 
 You can create a new template as follows:
 ```bash
-$ sbt new csgn/scala-module.g8
+$ sbt new csgn/scalamod.g8
 ```
